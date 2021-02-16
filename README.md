@@ -1,2 +1,2 @@
 # test
-This is our team bashcrawl game script
+This is a test
